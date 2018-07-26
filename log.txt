@@ -1,0 +1,62 @@
+hiUser Command: node liri.js my-tweet
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweet
+
+ERROR: Retrieving user tweets -- [{"code":34,"message":"Sorry, that page does not exist."}]User Command: node liri.js my-tweet
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Mon Jul 23 20:53:46 +0000 2018
+Tweet content: It's just a test :)
+------------------------
+
+User Command: node liri.js spotify-this-song Superstition 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Superstition
+Artist: Stevie Wonder
+Album: Number 1's
+Preview Here: null
+
+User Command: node liri.js movie-this jaws 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Jaws
+Year Released: 20 Jun 1975
+IMBD Rating: 8.0
+Country Produced: USA
+Language: English
+Plot: It's a hot summer on Amity Island, a small community whose main business is its beaches. When new Sheriff Martin Brody discovers the remains of a shark attack victim, his first inclination is to close the beaches to swimmers. This doesn't sit well with Mayor Larry Vaughn and several of the local businessmen. Brody backs down to his regret as that weekend a young boy is killed by the predator. The dead boy's mother puts out a bounty on the shark and Amity is soon swamped with amateur hunters and fisherman hoping to cash in on the reward. A local fisherman with much experience hunting sharks, Quint, offers to hunt down the creature for a hefty fee. Soon Quint, Brody and Matt Hooper from the Oceanographic Institute are at sea hunting the Great White shark. As Brody succinctly surmises after their first encounter with the creature, they're going to need a bigger boat.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c6aa1117cad1465a8cfbc97f66c42b6c
+
